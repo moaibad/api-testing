@@ -3,7 +3,7 @@ import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class APITest {
+public class TestAPI {
 
     String token = "662e5b1dbb70a783532595b0";
 
