@@ -46,13 +46,13 @@ public class ExtentReportListener implements ITestListener {
 
     @Override
     public void onTestSuccess(ITestResult result) {
-        test.log(Status.PASS, "Test Case Passed is " + result.getName());
+        test.log(Status.PASS, "Test Result dari " + result.getName() + " adalah pass");
     }
 
     @Override
     public void onTestFailure(ITestResult result) {
-        test.log(Status.FAIL, "Test Case Failed is " + result.getName());
-        test.log(Status.FAIL, "Test Case Failed Error is " + result.getThrowable());
+        test.log(Status.FAIL, "Test Result dari " + result.getName() + " adalah pass");
+        test.log(Status.FAIL, "Dengan error " + result.getThrowable());
     }
 
     @Override
