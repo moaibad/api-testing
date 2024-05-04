@@ -45,7 +45,7 @@ Repository ini bertujuan untuk melakukan pengujian API pada website DummyAPI htt
 
 ![image](https://github.com/moaibad/api-testing/assets/95458318/1bc42772-29b5-4e38-9669-5135004f5da2)
 
-8. Jika generated test report tidak terbuka secara otomatis pada browser, Anda dapat menemukan report nya dalam format html di direktori `/test-output/api-testing.html`.
+9. Jika generated test report tidak terbuka secara otomatis pada browser, Anda dapat menemukan report nya dalam format html di direktori `/test-output/api-testing.html`.
 
 
 ## TestNG Suite
