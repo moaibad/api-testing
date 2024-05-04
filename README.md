@@ -34,9 +34,10 @@ Repository ini bertujuan untuk melakukan pengujian API pada website DummyAPI htt
 5. Tunggu hingga proses pengujian selesai.
   
 6. Jika sudah selesai, maka hasil pengujian dapat dilihat pada terminal seperti gambar berikut.
+7. 
 ![image](https://github.com/moaibad/api-testing/assets/95458318/bc86d4d2-95c9-45b5-943b-97a8e0fe6420)
 
-7. Hasil generated test report akan secara otomatis terbuka pada browser, berikut merupakan hasil dari generated test report menggunakan library ExtentReports.
+8. Hasil generated test report akan secara otomatis terbuka pada browser, berikut merupakan hasil dari generated test report menggunakan library ExtentReports.
 
 ![image](https://github.com/moaibad/api-testing/assets/95458318/c4d7666e-8cdd-4ed8-a57c-ae663ac259e5)
 
