@@ -67,9 +67,9 @@ Untuk menjalankan pengujian ini, Anda dapat mengkonfigurasi `testng.xml` dengan 
 
 Anda dapat melakukan kostumisasi konfigurasi untuk menentukan class-class mana saja yang akan digenerate dengan menggunakan tag `<class>`.
 ## Authors
-- <img src="https://avatars.githubusercontent.com/u/78577365?v=4" width="20" height="20" alt="Avatar" style="border-radius: 50%;"> [@fikrihidayatulloh16](https://www.github.com/fikrihidayatulloh16) (Muhammad Fikri Hidayatulloh - 201524017)
-- <img src="https://avatars.githubusercontent.com/u/95458318?v=4" width="20" height="20" alt="Avatar" style="border-radius: 50%;"> [@moaibad](https://www.github.com/moaibad) (Mohammad Fathul'ibad - 211524015)
-- <img src="https://avatars.githubusercontent.com/u/95167399?v=4" width="20" height="20" alt="Avatar" style="border-radius: 50%;"> [@Rekabriyan](https://www.github.com/Rekabriyan) (Reka Briyan Cahya Heryana - 211524024)
+- <img src="https://avatars.githubusercontent.com/u/78577365?v=4" width="20" height="20" alt="Avatar"> [@fikrihidayatulloh16](https://www.github.com/fikrihidayatulloh16) (Muhammad Fikri Hidayatulloh - 201524017)
+- <img src="https://avatars.githubusercontent.com/u/95458318?v=4" width="20" height="20" alt="Avatar"> [@moaibad](https://www.github.com/moaibad) (Mohammad Fathul'ibad - 211524015)
+- <img src="https://avatars.githubusercontent.com/u/95167399?v=4" width="20" height="20" alt="Avatar"> [@Rekabriyan](https://www.github.com/Rekabriyan) (Reka Briyan Cahya Heryana - 211524024)
 
 
 ## License
