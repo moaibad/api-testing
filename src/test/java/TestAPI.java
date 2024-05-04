@@ -14,11 +14,11 @@ public class TestAPI {
                 .header("app-id", token)
                 .get("https://dummyapi.io/data/v1/user");
 
-        System.out.println("Response : " + response.asString());
-        System.out.println("Status : " + response.getStatusCode());
-        System.out.println("Body : " + response.getBody().asString());
-        System.out.println("Time taken : " + response.getTime());
-        System.out.println("Header : " + response.getHeader("content-type"));
+        // System.out.println("Response : " + response.asString());
+        // System.out.println("Status : " + response.getStatusCode());
+        // System.out.println("Body : " + response.getBody().asString());
+        // System.out.println("Time taken : " + response.getTime());
+        // System.out.println("Header : " + response.getHeader("content-type"));
 
         int statusCode = response.getStatusCode();
         Assert.assertEquals(statusCode, 200);
