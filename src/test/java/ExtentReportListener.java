@@ -21,6 +21,7 @@ public class ExtentReportListener implements ITestListener {
     @Override
     public void onStart(ITestContext context) {
         sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "/test-output/api-testing.html");
+        sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "/index.html");
         sparkReporter.config().setReportName("API Testing");
         sparkReporter.config().setDocumentTitle("API Testing Report");
         extent.attachReporter(sparkReporter);
@@ -51,7 +52,7 @@ public class ExtentReportListener implements ITestListener {
 
     @Override
     public void onTestFailure(ITestResult result) {
-        test.log(Status.FAIL, "Test Result dari " + result.getName() + " adalah pass");
+        test.log(Status.FAIL, "Test Result dari " + result.getName() + " adalah fail");
         test.log(Status.FAIL, "Dengan error " + result.getThrowable());
     }
 

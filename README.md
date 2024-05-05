@@ -7,11 +7,11 @@ Repository ini bertujuan untuk melakukan pengujian API pada website DummyAPI htt
 
 **Programming Languange:** Java 17
 
-**Builder Tools:** Apache Maven 3.9.4
+**Builder Tools:** Apache Maven
 
-**Testing Tools:** TestNG 7.4.0
+**Testing Tools:** TestNG, Rest Assured
 
-**Test Report Generator:** ExtentReports 5.0.9
+**Test Report Generator:** ExtentReports
 ## Menjalankan Pengujian
 
 

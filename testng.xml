@@ -5,7 +5,7 @@
     </listeners>
     <test name="Test">
         <classes>
-            <class name="TestAPI"/>
+            <class name="DELETEMethodTest"/>
             <class name="GETMethodTest"/>
         </classes>
     </test>
