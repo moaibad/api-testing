@@ -40,7 +40,7 @@ public class ExtentReportListener implements ITestListener {
     @Override
     public void onTestStart(ITestResult result) {
         test = extent.createTest(result.getMethod().getMethodName());
-        test.assignCategory(result.getInstance().getClass().getSimpleName());
+        // test.assignCategory(result.getInstance().getClass().getSimpleName());
         test.log(Status.INFO, "Waktu Eksekusi : " + new Date());
     }
 
