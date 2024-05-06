@@ -78,7 +78,6 @@ void testCase03CreateUserWithValidAppId() {
 }
 
 @Test
-@Test
 void testCase04CreateUserWithEmailNotInDatabase() {
     // Data requestBody
     String requestBody = "{\"firstName\":\"Cinderella\",\"lastName\":\"Ella\",\"email\":\"ella@example.com\"}";
