@@ -15,7 +15,7 @@ Repository ini bertujuan untuk melakukan pengujian API pada website DummyAPI htt
 ## Menjalankan Pengujian
 
 
-1. Pastikan JDK17+ dan Apachen Maven 3.9.4+ sudah terinstall pada komputer.
+1. Pastikan JDK17+ dan Apache Maven 3.9.4+ sudah terinstall pada komputer.
 
 2. Lakukan clone git repository dengan menjalankan perintah
 ```bash
